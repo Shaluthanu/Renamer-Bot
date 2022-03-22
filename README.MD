@@ -29,7 +29,7 @@ License -> https://github.com/Shaluthanu/RENAMER-BOT/blob/master/LICENSE
 * dthumbnail -  🎇  Delete thumbnail
 
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://www.heroku.com/deploy?template=https://github.com/mrk-yt/Shaluthanu
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://www.heroku.com/deploy? template•)<//github.com/mrk-yt/Shaluthanu
 
 
 ### Credits
